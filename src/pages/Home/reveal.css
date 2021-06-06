@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.head4{
+    font-family: 'Pattaya', sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    color: #f29191;
+}
+.head5{
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    font-weight: 500;
+     color: #ff7171;
+}

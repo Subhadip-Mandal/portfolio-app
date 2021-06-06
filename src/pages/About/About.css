@@ -1,0 +1,69 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital@1&display=swap');
+
+/*.back{
+    height: 650px;
+    width: 100%;
+    background-color: #edffec;
+    overflow-y: hidden;
+}*/
+
+.back{
+    overflow-y: hidden;
+    height: 100vh;
+    background: linear-gradient(0deg, #a9f1df 0%, #ffffff 100% );
+}
+.profile{
+    height: 450px;
+    width: 450px;
+}
+.about{
+    padding-top: 50px;
+    width: 100%;
+    height: 400px;
+}
+.chobi{
+    width: 40%;
+    height: 400px;
+    float: left;
+    text-align: center;
+}
+.desc{
+    padding: 20px 150px 0 0;
+    width: 60%;
+    height: 400px;
+    float: right;
+    text-align: center;
+   
+}
+.para1{
+    font-family: 'Alegreya Sans', sans-serif;
+    line-height: 1.9rem;
+    font-size: 1.5rem;
+}
+
+.header1{
+    margin-bottom: 30px;
+}
+.head1{
+    font-family: 'Crimson Text', serif;
+    font-size: 2.5rem;
+    padding-bottom: 5px;
+    border-bottom: 5px solid #51c4d3;
+    
+}
+.bottom1{
+    margin-left: 800px;
+}
+.hack{
+    height: 100px;
+   /* margin-left: 800px;*/
+}
+.hack1{
+    height: 100px;
+    padding: 0 50px;
+}
+.hack2{
+    height: 100px;
+}
